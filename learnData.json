@@ -2,7 +2,7 @@
     	"id": 1,
     	"title": "Einleitung",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -16,7 +16,7 @@
     	"id": 2,
     	"title": "Einführung in die Elektrotechnik",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -30,7 +30,7 @@
     	"id": 3,
     	"title": "Sicherheitsmaßnahmen im Umgang mit elektrischen Betriebsmitteln",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -44,7 +44,7 @@
     	"id": 4,
     	"title": "Rechtliche und normative Grundlagen",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -58,7 +58,7 @@
     	"id": 5,
     	"title": "Prüfablauf bei der Prüfung von ortsveränderlichen Betriebsmitteln",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -72,7 +72,7 @@
     	"id": 6,
     	"title": "Sichtprüfung von ortsveränderlichen Betriebsmitteln",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -86,7 +86,7 @@
     	"id": 7,
     	"title": "Prüfung der Durchgängigkeit der Schutzleiter",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -100,7 +100,7 @@
     	"id": 8,
     	"title": "Prüfung des Isolationswiderstands",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -114,7 +114,7 @@
     	"id": 9,
     	"title": "Prüfung von Berührungs- und Ableitströmen",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -128,7 +128,7 @@
     	"id": 10,
     	"title": "Weitere Prüfungen",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -142,7 +142,7 @@
     	"id": 11,
     	"title": "Funktionsprüfung",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
@@ -156,7 +156,7 @@
     	"id": 11,
     	"title": "Funktionsprüfung",
     	"description": "",
-        "videoURL": "",
+        "videoURL": "https://github.com/choyofaque/ElektrocheckFiles/raw/main/TestVideo.mov"",
     	"test": [{
             "id": 1,
             "question": "",
